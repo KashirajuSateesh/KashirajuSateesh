@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sateesh Kashiraju
 
-🎓 Master's in Data Science | 📊 Data Analyst | 🧠 ML Enthusiast | 🌐 Cloud Explorer
+🎓 Master's in Data Science | Data Analyst | ML Enthusiast | Cloud Explorer
 
 I'm a data-driven professional with 3+ years of experience turning raw data into powerful insights. I specialize in Python, SQL, and R for end-to-end data analysis, automation, and predictive modeling. Passionate about uncovering trends, solving business problems, and building smart solutions that scale.
 
@@ -19,11 +19,11 @@ I'm a data-driven professional with 3+ years of experience turning raw data into
 
 ## 💼 Professional Highlights
 
-- 📊 Built dynamic dashboards using Power BI and Tableau for real-time insights.
-- 🧹 Automated data pipelines and recurring reports to improve workflow efficiency.
-- 🧠 Developed machine learning models to predict customer behavior and churn.
-- ☁️ Hands-on with AWS tools for cloud-based data processing and storage.
-- 🏦 Experience working with financial data at BNY Mellon and Honeywell.
+-  Built dynamic dashboards using Power BI and Tableau for real-time insights.
+-  Automated data pipelines and recurring reports to improve workflow efficiency.
+-  Developed machine learning models to predict customer behavior and churn.
+-  Hands-on with AWS tools for cloud-based data processing and storage.
+-  Experience working with financial data at BNY Mellon and Honeywell.
 
 ---
 
